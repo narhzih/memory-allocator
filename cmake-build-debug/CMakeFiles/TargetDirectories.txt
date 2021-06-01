@@ -1,0 +1,3 @@
+/home/symfony/Documents/Personal/CodeCamp/stuffs/cProg/memoryAllocator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/symfony/Documents/Personal/CodeCamp/stuffs/cProg/memoryAllocator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/symfony/Documents/Personal/CodeCamp/stuffs/cProg/memoryAllocator/cmake-build-debug/CMakeFiles/memoryAllocator.dir
